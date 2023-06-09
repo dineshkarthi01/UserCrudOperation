@@ -1,0 +1,15 @@
+{
+    "id": "string",
+    "created_at": "datetime",
+    "updated_at": "datetime",
+    "first_name": "string",
+    "middle_name": "string",
+    "last_name": "string",
+    "country_code": "string",
+    "country_number": "number",
+    "mobile_number": "number",
+    "email": "string",
+    "address": "string",
+    "area_id": "string",
+    "photo": "binary"
+}
